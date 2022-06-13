@@ -23,7 +23,7 @@ namespace Experienza.Api.Controllers
 
         #region Methods
         [HttpGet]
-        public async Task<BookDTO> GetAsync()
+        public async Task<IEnumerable<BookDTO>> GetAsync()
         {
             return await _booksAppServices.GetAsync();
         }

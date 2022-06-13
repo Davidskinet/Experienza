@@ -23,9 +23,9 @@ namespace Experienza.Application.AplicationServices
         #endregion
 
         #region Methods
-        public async Task<BookDTO> GetAsync()
+        public async Task<IEnumerable<BookDTO>> GetAsync()
         {
-            BookDTO result = _mapper.Map<BookDTO>( await _repository.GetAsync());
+            IEnumerable<BookDTO> result = _mapper.Map<IEnumerable<BookDTO>>(await _repository.GetAsync());
             return result;
         }
         #endregion

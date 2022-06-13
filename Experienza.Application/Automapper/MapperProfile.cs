@@ -8,7 +8,7 @@ namespace Experienza.Application.Automapper
     {
         public MapperProfile()
         {
-            CreateMap<BookDTO, Book>();
+            CreateMap<BookDTO, Book>().ReverseMap();
         }
     }
 }
