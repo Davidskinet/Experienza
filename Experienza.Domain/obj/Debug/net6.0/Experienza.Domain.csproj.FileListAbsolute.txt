@@ -1,0 +1,14 @@
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\bin\Debug\net6.0\Experienza.Domain.deps.json
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\bin\Debug\net6.0\Experienza.Domain.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\bin\Debug\net6.0\ref\Experienza.Domain.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\bin\Debug\net6.0\Experienza.Domain.pdb
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\ref\Experienza.Domain.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.pdb
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\bin\Debug\net6.0\Experienza.Domain.runtimeconfig.json
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.genruntimeconfig.cache
+C:\Users\JUAN\Desktop\Experienza\Experienza.Domain\obj\Debug\net6.0\Experienza.Domain.csproj.AssemblyReference.cache

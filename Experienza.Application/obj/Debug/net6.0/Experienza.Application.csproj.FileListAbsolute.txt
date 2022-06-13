@@ -1,0 +1,17 @@
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\Experienza.Application.deps.json
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\Experienza.Application.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\ref\Experienza.Application.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\Experienza.Application.pdb
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\EntitiesDTOs.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\Experienza.Domain.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\EntitiesDTOs.pdb
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\bin\Debug\net6.0\Experienza.Domain.pdb
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.csproj.AssemblyReference.cache
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.csproj.CopyComplete
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\ref\Experienza.Application.dll
+C:\Users\JUAN\Desktop\Experienza\Experienza.Application\obj\Debug\net6.0\Experienza.Application.pdb
